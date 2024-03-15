@@ -1,4 +1,4 @@
-# Software Craft und Testing Community Salzburg - Verein zur För- derung professioneller Software Entwicklung in Österreich
+# Software Craft und Testing Community Salzburg - Verein zur Förderung professioneller Software Entwicklung in Österreich
 
 This repo contains documents, issues and discussions related to the operation of the association (**Verein**)
 
