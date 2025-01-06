@@ -12,7 +12,14 @@ You are welcome to file non-technical [issues](https://github.com/Salzburg-SoCra
 
 ## Join our Meetups
 
-If you want to know more about the Meetups/Events we are running make sure to visit our group: https://www.meetup.com/salzburg-software-craftsmanship/
+If you want to know more about the Meetups/Events we are running make sure to visit our group: <https://www.meetup.com/salzburg-software-craftsmanship/>
+
+## Get in contact with us
+
+You can contact us
+- at one of our Meetups,
+- chat or email with ous via our Meetup Page, or
+- join our Discord server
 
 ## Sponsorship and Support
 
