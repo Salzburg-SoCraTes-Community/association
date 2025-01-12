@@ -41,4 +41,4 @@ We would like to thank the following financial supportes of our Meetup group:
 
 The city of [Salzburg](https://www.wissensstadt-salzburg.at) is financially supporting us!
 
-![Logo from the Wissensstadt Salzburg](/MAG_16 WS-Logo-4c-RGB-300dpi.jpg)
+![Logo from the Wissensstadt Salzburg](/MAG_16%20WS-Logo-4c-RGB-300dpi.jpg)
