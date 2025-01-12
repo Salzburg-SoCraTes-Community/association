@@ -19,7 +19,7 @@ If you want to know more about the Meetups/Events we are running make sure to vi
 You can contact us
 - at one of our Meetups,
 - chat or email with ous via our Meetup Page, or
-- join our Discord server
+- join our [Discord server](https://discord.gg/pCWUN24tdw)
 
 ## Sponsorship and Support
 
