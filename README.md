@@ -4,7 +4,7 @@ This repo contains documents, issues and discussions related to the operation of
 
 ## Governance
 
-The [statutes](./Statuten_Softwar%20Craft%20und%20Testing%20Community%20Salzburg.pdf) under which **Software Craft und Testing Community Salzburg** operates
+The [statutes](./statuten/13_05_15_Statuten_Softwar%20Craft%20und%20Testing%20Community%20Salzburg.pdf) under which **Software Craft und Testing Community Salzburg** operates
 
 ## How to request changes
 
