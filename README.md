@@ -21,6 +21,8 @@ You can contact us
 - chat or email with us via our Meetup Page, or
 - join our [Discord server](https://discord.gg/pCWUN24tdw).
 
+If you want to be an active member of our association (Vereinsmitglied) feel free to send us a request to join (Beitrittserklärung) by forwarding [this form](./statuten/Beitrittserklaerung.pdf) to one existing association-member
+
 ## Sponsorship and Support
 
 Most importantly: all of our Meetups are free for all attendees!
